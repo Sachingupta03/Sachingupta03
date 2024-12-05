@@ -1,10 +1,3 @@
-- 🎯
-
-Focusing
-
-Follow
-
-"Hi, I’m Sachin Gupta, a passionate coder with a keen interest in software development and creating innovative solutions through technology."
 
 🚀Full-Stack Development
 
