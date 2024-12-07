@@ -1,10 +1,4 @@
-
-🚀Full-Stack Development
-
-🔥 Passionate Java Developer & Tech Enthusiast 🌟
-🚀 Building robust and scalable applications with a strong foundation in Java and J2EE technologies! 💡 Skilled in Core Java, Spring Core, Spring Boot, Spring Data JPA, and Spring Security-crafting seamless and secure RESTful Web Services. ⚙️ Proficient in MySQL, and mastering Git/GitHub for efficient source code management. 📚 Expertise in data structures for performance optimization and exploring the potential of microservices architecture. 📊 Embracing Agile development with tools like JIRA, delivering value iteratively. 💻 Curious about the intersection of AI and large language models, and always pushing boundaries to innovate! ✨ Check out my repositories to see how I bring ideas to life. Let’s build something amazing! 🌟
-
-Coding
+[![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://Chandrashekharwagh.io)
 
 About Me 👋
 🌍 I'm based in Pune, India
