@@ -21,8 +21,12 @@ I'm a passionate Full-Stack developer from India. Currently learning and working
 
 📫 How to reach me https://github.com/Sachingupta03
 
-⚡ Fun fact: Debugging is like being the detective in a crime movie where you are also the murderer!"🕵️‍♂️
-Stack I work with 🤖
+⚡ Fun fact: I am funny 
+
+## Stack I work with
+![HTML](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
 
 
 Sachingupta03/Sachingupta03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
