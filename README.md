@@ -37,8 +37,7 @@ I'm a passionate Full-Stack developer from India. Currently learning and working
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50">
     <p>Docker</p>
   </div>
-  <!-- Add more tools in the same format -->
-</div>
+  
 
 Sachingupta03/Sachingupta03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
