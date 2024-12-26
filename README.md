@@ -1,4 +1,3 @@
-https://raw.githubusercontent.com/Sachin Gupta/<repository>/<branch>/<path_to_image>
 
 Hi 👋 My Name is Sachin Gupta
 =============================
