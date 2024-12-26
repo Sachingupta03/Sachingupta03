@@ -3,7 +3,8 @@
 Hi 👋 My Name is Sachin Gupta
 =============================
 
-Full-Stack Developer
+<h3 align="center">A passionate Software Engineer from India</h3>
+
 --------------------
 
 I'm a passionate Full-Stack developer from India. Currently learning and working with various technologies to expand my skillset.
@@ -41,6 +42,7 @@ I'm a passionate Full-Stack developer from India. Currently learning and working
 <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg"></code>
 <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
 <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
+
 
 
 Sachingupta03/Sachingupta03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
