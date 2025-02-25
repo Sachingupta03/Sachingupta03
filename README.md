@@ -1,10 +1,21 @@
 
-               # Hi👋 My Name is Sachin Kumar Gupta
-                ##  =============================
+               # Hi, I'm Sachin Kumar Gupta 👋  
+### 🚀 Java Developer | Full-Stack Developer  
 
-<h3 align="center">A passionate Software Engineer from India</h3>
+**Tech Stack:**  
+- Java | Spring Boot | Hibernate | REST APIs  
+- MySQL | PostgreSQL | MongoDB  
+- HTML | CSS | JavaScript | React.js  
+- Git | GitHub | Docker  
 
---------------------
+📌 **About Me:**  
+- 🔭 Working on Java-based projects like Cab Booking System  
+- 🌱 Exploring Microservices and Cloud Technologies  
+- 💬 Ask me about Java, OOP, Exception Handling, and Backend Development  
+
+📫 **Let's Connect:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](your-linkedin-profile)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](your-github-profile)
 
 I'm a passionate Full-Stack developer from India. Currently learning and working with various technologies to expand my skillset.
 
