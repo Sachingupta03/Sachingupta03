@@ -4,9 +4,9 @@
 
 **Tech Stack:**  
 - Java | Spring Boot | Hibernate | REST APIs  
-- MySQL | PostgreSQL | MongoDB  
-- HTML | CSS | JavaScript | React.js  
-- Git | GitHub | Docker  
+- MySQL | PostgreSQL |
+- HTML | CSS | JavaScript | 
+- Git | GitHub | 
 
 📌 **About Me:**  
 - 🔭 Working on Java-based projects like Cab Booking System  
