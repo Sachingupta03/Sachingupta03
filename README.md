@@ -1,6 +1,6 @@
 
-### Hi 👋 My Name is Sachin Gupta
-###    =============================
+               ### Hi 👋 My Name is Sachin Gupta
+                ###=============================
 
 <h3 align="center">A passionate Software Engineer from India</h3>
 
